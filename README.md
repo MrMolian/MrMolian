@@ -1,4 +1,4 @@
-Hi, I'm Moaad Barkache and I like cats.
+Hi, I'm Moaad Barkache and I like cats and science.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_br_k)
